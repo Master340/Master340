@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C0C0C0&random=false&width=435&lines=Hello+World%2C++I'm+Master)](https://git.io/typing-svg)
 <!--
 **Master340/Master340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
